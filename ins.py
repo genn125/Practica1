@@ -11,3 +11,5 @@ insertion_sort(data_3)
 print('Пузырьковая сортировка: ' ,data_1)
 print('Сортировка выбором: ' ,data_2)
 print('Сортировка вставкой: ' ,data_3)
+
+
